@@ -1,0 +1,308 @@
+{"Orders":[
+		{
+			"Id": 401,
+			"CusCode": "3456322",
+			"CusName": "ΑΧΤΙΔΑ ΑΕΒΕ",
+
+		   "Lines": [
+				{
+					"Id": "76485801|0",
+					"LocAddress": "B1-1-4",
+					"ItemCode": "54321-1001",
+					"ItmDescr": "SKIN SUPPLEMENT FACE OIL",
+					"Qty": 3,
+					 "LU1perLU2" : 4,
+					"BarcodeSequence": "*5201279221430*534*",
+				"PhotoAddress":"https://drive.google.com/uc?id=1Kp_ebIn4ITj5ZGz0bYZlq2MkvwrhZ1yA",
+					"Note1":"N/A",
+					"Note2":"N/A",
+					"LU1weight":100,
+					"LU2weight":450
+				},
+			 {
+					"Id": "76485802|0",
+					"LocAddress": "B1-1-3",
+					"ItemCode": "54321-1005",
+					"ItmDescr": "AQUA PLUS FACE CREAM",
+					"Qty": 7,
+					 "LU1perLU2" : 6,
+					"BarcodeSequence": "*5201279221621*634*",
+				"PhotoAddress":"https://drive.google.com/uc?id=1DjfyBXFIqKuwp8sBSUGBDCgSgX9vyDoo",
+					"Note1":"N/A",
+					"Note2":"N/A",
+					"LU1weight":100,
+					"LU2weight":650
+				},
+		  {
+					"Id": "76485803|0",
+					"LocAddress": "B1-1-2",
+					"ItemCode": "54321-1009",
+					"ItmDescr": "SUNCARE AFTER SUN -GREEN TEA",
+					"Qty": 3,
+					 "LU1perLU2" : 1,
+					"BarcodeSequence": "*5201279301118*976*",
+				"PhotoAddress":"https://drive.google.com/uc?id=1g_I_PEQvlehaWm-bdQaWdlRSqBKeYAko",
+					"Note1":"N/A",
+					"Note2":"N/A",
+				   "LU1weight":500,
+				   "LU2weight":500
+				},
+		 {
+					"Id": "76485804|0",
+					"LocAddress": "B1-1-1",
+					"ItemCode": "54321-1013",
+					"ItmDescr": "PROPOLINE PASTILLES RESCUE REMEDY",
+					"Qty": 12,
+					 "LU1perLU2" : 6,
+					"BarcodeSequence": "*5201279610050*512*",
+				"PhotoAddress":"https://drive.google.com/uc?id=18dOJtr7TcAo8iFJTv59YrdWnCuiVEdBa",
+					"Note1":"Pay Attention SET!",
+					"Note2":"N/A",
+				   "LU1weight":200,
+				   "LU2weight":1300
+				},
+		{
+					"Id": "76485805|0",
+					"LocAddress": "B1-2-4",
+					"ItemCode": "54321-1002",
+					"ItmDescr": "SUNCARE TOTAL SUNBLOCK-WALNUT",
+					"Qty": 17,
+					 "LU1perLU2" : 6,
+					"BarcodeSequence": "*5201279301095*138*",
+				"PhotoAddress":"https://drive.google.com/uc?id=1qUosBpVlL2d3xZf4B8XuYII7AS6ypc35",
+					"Note1":"N/A",
+					"Note2":"N/A",
+				   "LU1weight":100,
+				   "LU2weight":650
+				},
+		{
+					"Id": "76485806|0",
+					"LocAddress": "B1-2-3",
+					"ItemCode": "54321-1006",
+					"ItmDescr": "PROPOLINE PASTILLES",
+					"Qty": 18,
+					 "LU1perLU2" : 6,
+					"BarcodeSequence": "*5201279602208*327*",
+				"PhotoAddress":"https://drive.google.com/uc?id=1omx5h6mO05itVzFBQEf_dzXMd6T7B9V8",
+					"Note1":"N/A",
+					"Note2":"N/A",
+				"LU1weight":100,
+				   "LU2weight":650
+				},
+		{
+					"Id": "76485807|0",
+					"LocAddress": "B1-2-2",
+					"ItemCode": "54321-1010",
+					"ItmDescr": "ANTISPOT DAY CREAM",
+					"Qty": 10,
+					 "LU1perLU2" : 6,
+					"BarcodeSequence": "*5201279124106*787*",
+				"PhotoAddress":"https://drive.google.com/uc?id=13E-DaqEKUy861TtoR87L48-qZzUBBaX8",
+					"Note1":"N/A",
+					"Note2":"N/A",
+					"LU1weight":100,
+					"LU2weight":650
+				},
+		{
+					"Id": "76485808|0",
+					"LocAddress": "B1-2-1",
+					"ItemCode": "54321-1014",
+					"ItmDescr": "CAPSULES FOOD SUPPLEMENT",
+					"Qty": 6,
+					 "LU1perLU2" : 1,
+					"BarcodeSequence": "*5201279110123*826*",
+				"PhotoAddress":"https://drive.google.com/uc?id=1ii5xbS8tGItn8qPW2qQhOLttjfjitPQW",
+					"Note1":"N/A",
+					"Note2":"N/A",
+					"LU1weight":200,
+				   "LU2weight":200
+				},
+		{
+					"Id": "76485809|0",
+					"LocAddress": "C1-1-4",
+					"ItemCode": "54321-1003",
+					"ItmDescr": "MULTI-SUN FOAM",
+					"Qty": 18,
+					 "LU1perLU2" : 3,
+					"BarcodeSequence": "*5201279403010*443*",
+				"PhotoAddress":"https://drive.google.com/uc?id=1LILIuqkRRutiRkGOxTiYuUb2IVca3HtK",
+					"Note1":"N/A",
+					"Note2":"N/A",
+					"LU1weight":200,
+					"LU2weight":660
+				},
+		{
+					"Id": "76485810|0",
+					"LocAddress": "C1-1-3",
+					"ItemCode": "54321-1007",
+					"ItmDescr": "COLDFREE OINTMENT",
+					"Qty": 5,
+					 "LU1perLU2" : 6,
+					"BarcodeSequence": "*5201279602017*114*",
+				"PhotoAddress":"https://drive.google.com/uc?id=1vpZhI1ZABzQldD6RYPCQP8j9p5539kcf",
+					"Note1":"N/A",
+					"Note2":"N/A",
+				   "LU1weight":100,
+				   "LU2weight":650
+				}, 
+		{
+					"Id": "76485811|0",
+					"LocAddress": "C1-1-2",
+					"ItemCode": "54321-1011",
+					"ItmDescr": "HAIR CARE SYSTEM FOR MEN",
+					"Qty": 1,
+					 "LU1perLU2" : 6,
+					"BarcodeSequence": "*5201279110086*108*",
+				"PhotoAddress":"https://drive.google.com/uc?id=12YjsqHzq1xhNSkVi1dha6-nFO-RF9Tdn",
+					"Note1":"N/A",
+					"Note2":"N/A",
+					"LU1weight":100,
+				   "LU2weight":660
+				},   
+		 {
+					"Id": "76485812|0",
+					"LocAddress": "C1-1-1",
+					"ItemCode": "54321-1015",
+					"ItmDescr": "AGE MANAGEMENT SERUM",
+					"Qty": 10,
+					 "LU1perLU2" : 6,
+					"BarcodeSequence": "*5201279221324*981*",
+				"PhotoAddress":"https://drive.google.com/uc?id=1igViegGiVm_fy7HzyHEr6EhHUlk3ze65",
+					"Note1":"N/A",
+					"Note2":"N/A",
+					"LU1weight":100,
+				   "LU2weight":660
+				},    
+		  {
+					"Id": "76485813|0",
+					"LocAddress": "C1-2-4",
+					"ItemCode": "54321-1004",
+					"ItmDescr": "FIRST AID BALSAM",
+					"Qty": 20,
+					 "LU1perLU2" : 2,
+					"BarcodeSequence": "*5201279121020*580*",
+				"PhotoAddress":"https://drive.google.com/uc?id=1b5LcPK2x8eMCuIgJjo9IWcXOC_gLrCu7",
+					"Note1":"N/A",
+					"Note2":"N/A",
+					"LU1weight":200,
+				   "LU2weight":440
+				},    
+		 {
+					"Id": "76485814|0",
+					"LocAddress": "C1-2-3",
+					"ItemCode": "54321-1008",
+					"ItmDescr": "SUNCARE HIGH PROTECTION - GREEN TEA",
+					"Qty": 15,
+					 "LU1perLU2" : 6,
+					"BarcodeSequence": "*5201279301170*327*",
+				"PhotoAddress":"https://drive.google.com/uc?id=17MBJD-fWKqmzgAVRocTWhM2G7hGvmT2Q",
+					"Note1":"N/A",
+					"Note2":"N/A",
+					"LU1weight":100,
+				   "LU2weight":660
+				}, 
+		{
+					"Id": "76485815|0",
+					"LocAddress": "C1-2-2",
+					"ItemCode": "54321-1012",
+					"ItmDescr": "COLDFREE GARGLE & MOUTHWASH",
+					"Qty": 6,
+					 "LU1perLU2" : 6,
+					"BarcodeSequence": "*5201279602093*912*",
+				"PhotoAddress":"https://drive.google.com/uc?id=1UZH6gcdhtV0kmq_xiZG5V_iPjzfCSjiE",
+					"Note1":"N/A",
+					"Note2":"N/A",
+					"LU1weight":100,
+				   "LU2weight":660
+				},
+		{
+					"Id": "76485816|0",
+					"LocAddress": "C1-2-1",
+					"ItemCode": "54321-1016",
+					"ItmDescr": "BABY BALSAM CREAM",
+					"Qty": 3,
+					 "LU1perLU2" : 6,
+					"BarcodeSequence": "*5201279750039*778*",
+				"PhotoAddress":"https://drive.google.com/uc?id=17sr-cquQaW61rd1UxC65Ms_7G6d9ZZbp",
+					"Note1":"N/A",
+					"Note2":"N/A",
+					"LU1weight":100,
+				   "LU2weight":660
+				}
+
+			]
+		},
+		{
+			"Id": 402,
+			"CusCode": "6535333",
+			"CusName": "VELOS IKE",
+
+		   "Lines": [
+				{
+					"Id": "76485801|0",
+					"LocAddress": "B1-1-4",
+					"ItemCode": "54321-1001",
+					"ItmDescr": "SKIN SUPPLEMENT FACE OIL",
+					"Qty": 3,
+					 "LU1perLU2" : 4,
+					"BarcodeSequence": "*5201279221430*534*",
+				    "PhotoAddress":"https://drive.google.com/uc?id=1Kp_ebIn4ITj5ZGz0bYZlq2MkvwrhZ1yA",
+					"Note1":"N/A",
+					"Note2":"N/A",
+					"LU1weight":100,
+					"LU2weight":450
+				},
+			 {
+					"Id": "76485802|0",
+					"LocAddress": "B1-1-3",
+					"ItemCode": "54321-1005",
+					"ItmDescr": "AQUA PLUS FACE CREAM",
+					"Qty": 7,
+					 "LU1perLU2" : 6,
+					"BarcodeSequence": "*5201279221621*634*",
+				     "PhotoAddress":"https://drive.google.com/uc?id=1DjfyBXFIqKuwp8sBSUGBDCgSgX9vyDoo",
+					"Note1":"N/A",
+					"Note2":"N/A",
+					"LU1weight":100,
+					"LU2weight":650
+				}
+			]
+		 },
+		 {
+			"Id": 403,
+			"CusCode": "15335333",
+			"CusName": "GEORGION FINK",
+
+		   "Lines": [
+				{
+					"Id": "76485801|0",
+					"LocAddress": "B1-1-4",
+					"ItemCode": "54321-1001",
+					"ItmDescr": "SKIN SUPPLEMENT FACE OIL",
+					"Qty": 12,
+					 "LU1perLU2" : 4,
+					"BarcodeSequence": "*5201279221430*534*",
+				    "PhotoAddress":"https://drive.google.com/uc?id=1Kp_ebIn4ITj5ZGz0bYZlq2MkvwrhZ1yA",
+					"Note1":"N/A",
+					"Note2":"N/A",
+					"LU1weight":100,
+					"LU2weight":450
+				},
+			 {
+					"Id": "76485802|0",
+					"LocAddress": "B1-1-3",
+					"ItemCode": "54321-1005",
+					"ItmDescr": "AQUA PLUS FACE CREAM",
+					"Qty": 18,
+					 "LU1perLU2" : 6,
+					"BarcodeSequence": "*5201279221621*634*",
+				     "PhotoAddress":"https://drive.google.com/uc?id=1DjfyBXFIqKuwp8sBSUGBDCgSgX9vyDoo",
+					"Note1":"N/A",
+					"Note2":"N/A",
+					"LU1weight":100,
+					"LU2weight":650
+				}
+			]
+		 }
+	]	
+}
